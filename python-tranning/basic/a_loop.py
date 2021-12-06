@@ -1,3 +1,8 @@
+def main_loop():
+    # call function here
+    return
+
+
 def for_loop():
     primes = [2, 3, 5, 7]
     for prime in primes:
